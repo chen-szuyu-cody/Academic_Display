@@ -1,4 +1,4 @@
-# Class_Practices
+# Academic Display
 MA710-DataMining
 
 MA705-DataScience
